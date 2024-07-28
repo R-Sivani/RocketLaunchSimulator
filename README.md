@@ -1,0 +1,4 @@
+Assumed values:
+ STAGE_1_DURATION = 100; 
+ STAGE_2_DURATION = 200;  
+ ORBIT_ALTITUDE = 1000; 
